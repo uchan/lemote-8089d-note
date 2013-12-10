@@ -1,0 +1,10 @@
+url:
+www.loongson.cn/dev/community/openproject/pmon
+http://dev.lemote.com/code/pmon
+http://www.linux-mips.org/wiki/PMON
+
+
+版本：
+原版PMON    停滞
+PMON2000
+

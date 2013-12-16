@@ -1,4 +1,4 @@
-url:
+﻿url:
 www.loongson.cn/dev/community/openproject/pmon
 http://dev.lemote.com/code/pmon
 http://www.linux-mips.org/wiki/PMON
@@ -6,5 +6,7 @@ http://www.linux-mips.org/wiki/PMON
 
 版本：
 原版PMON    停滞
-PMON2000
+PMON2000    3.0?
+lemote分支  基于PMON2000 2.0?
+[http://www.pmon2000.com/content/lemote-yeeloong-netbook-and-pmon2000]
 
